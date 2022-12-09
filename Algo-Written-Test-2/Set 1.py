@@ -78,3 +78,15 @@
 # print(f'{aboveAvg} days were above average')
 
 """Question 6"""
+
+# a1 = [12, 34, 56]
+# a2 = [7, 8, 9, 10]
+# data = []
+
+# def merge(a1, a2):
+#     for i in a1:
+#         data.append(i)
+#     for k in a2:
+#         data.append(k)
+#     return data
+# print(merge(a1,a2))
